@@ -1,1 +1,1 @@
-# Tip : An app to calculate Tip By %
+# Tip : An app to calculate Tip By Percentage 
